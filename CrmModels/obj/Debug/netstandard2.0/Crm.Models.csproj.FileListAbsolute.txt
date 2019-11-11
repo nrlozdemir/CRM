@@ -1,0 +1,8 @@
+D:\CRMProject\CrmModels\bin\Debug\netstandard2.0\Crm.Models.deps.json
+D:\CRMProject\CrmModels\bin\Debug\netstandard2.0\Crm.Models.dll
+D:\CRMProject\CrmModels\bin\Debug\netstandard2.0\Crm.Models.pdb
+D:\CRMProject\CrmModels\obj\Debug\netstandard2.0\Crm.Models.csprojAssemblyReference.cache
+D:\CRMProject\CrmModels\obj\Debug\netstandard2.0\Crm.Models.AssemblyInfoInputs.cache
+D:\CRMProject\CrmModels\obj\Debug\netstandard2.0\Crm.Models.AssemblyInfo.cs
+D:\CRMProject\CrmModels\obj\Debug\netstandard2.0\Crm.Models.dll
+D:\CRMProject\CrmModels\obj\Debug\netstandard2.0\Crm.Models.pdb
